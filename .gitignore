@@ -1,0 +1,20 @@
+
+logs/*
+!.gitkeep
+
+#directories
+node_modules/
+bower_components/
+tmp
+
+#IntelliJ files
+.DS_Store
+.idea
+.classpath
+.project
+.jshintrc
+*.iml
+
+
+#logs
+*.log
